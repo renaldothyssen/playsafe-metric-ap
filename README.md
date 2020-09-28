@@ -150,7 +150,7 @@ Expected Output
 Run and executing ignoring unit tests.
 
 ```sh
-$ npm install -DskipTests=true
+$ mvn clean install -DskipTests=true
 ```
 
 ### Access the Service
